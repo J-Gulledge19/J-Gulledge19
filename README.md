@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">I am a Full Stack Software Engineer who embraces challenges that rely heavily on my 10+ years of experience in problem solving and deductive reasoning. With a strong foundation of adaptability, creativity and collaboration, I can't wait to continue to create and expand knowledge in software development.</h3>
 
-- 🔭 I’m currently working on [Sayner Mobil](https://saynermobil.com/)
+- 🔭 I’m currently working and maintaining [Sayner Mobil](https://saynermobil.com/)
 
 - 👨‍💻 All of my projects are available at [https://joshuagulledge.com/](https://joshuagulledge.com/)
 
